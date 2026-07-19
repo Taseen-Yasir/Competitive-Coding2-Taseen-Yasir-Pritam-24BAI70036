@@ -60,12 +60,12 @@ true
 ### Experiment 1.1.1
 
 ![image alt](https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.1/Exp%20brute%201.1.1.JPG?raw=true)
-![imaage alt]https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.1/Exp%20optimized%20%201.1.1.JPG?raw=true
+![imaage alt](https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.1/Exp%20optimized%20%201.1.1.JPG?raw=true)
 
 
 ### Experiment 1.1.2
 
-*(Add screenshot here)*
+
 
 ---
 
