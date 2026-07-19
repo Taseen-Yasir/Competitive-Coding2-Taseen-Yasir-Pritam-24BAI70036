@@ -59,7 +59,7 @@ true
 
 ### Experiment 1.1.1
 
-(https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.1/Exp%20brute%201.1.1.JPG?raw=true)
+![image alt](https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.1/Exp%20brute%201.1.1.JPG?raw=true)
 
 
 
