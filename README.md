@@ -66,8 +66,7 @@ true
 ### Experiment 1.1.2
 
 ![image alt](https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.2/Exp%201.1.2%20bruteforce.JPG?raw=true)
-
----
+![image alt](https://github.com/Taseen-Yasir/Competitive-Coding2-Taseen-Yasir-Pritam-24BAI70036/blob/main/Exp%201.1.2/Exp%201.1.2%20optimized.JPG?raw=true)
 
 ## Language
 
@@ -75,4 +74,5 @@ true
 
 ## Author
 
-**Pritam**
+**Taseen Yasir Pritam
+24BAI70036**
