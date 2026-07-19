@@ -1,0 +1,76 @@
+# CC-II (24CSP-339) - Experiment
+
+This repository contains C++ solutions for the CC-II (24CSP-339) lab experiments.
+
+## Experiment 1.1.1 - Contains Duplicate II (LeetCode #219)
+
+### Files
+- brute_force.cpp
+- optimized.cpp
+
+### Complexity
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Brute Force | O(n²) | O(1) |
+| Optimized (Hash Map) | O(n) | O(n) |
+
+### Sample Input
+```
+4
+1 2 3 1
+3
+```
+
+### Sample Output
+```
+true
+```
+
+---
+
+## Experiment 1.1.2 - Product of Array Except Self (LeetCode #238)
+
+### Files
+- brute_force.cpp
+- optimized.cpp
+
+### Complexity
+
+| Approach | Time | Space |
+|----------|------|-------|
+| Brute Force | O(n²) | O(1) |
+| Optimized (Prefix-Suffix) | O(n) | O(1) |
+
+### Sample Input
+```
+4
+1 2 3 4
+```
+
+### Sample Output
+```
+24 12 8 6
+```
+
+---
+
+## Output Screenshots
+
+### Experiment 1.1.1
+
+*(Add screenshot here)*
+
+### Experiment 1.1.2
+
+*(Add screenshot here)*
+
+---
+
+## Language
+
+- C++
+
+## Author
+
+**Pritam**
